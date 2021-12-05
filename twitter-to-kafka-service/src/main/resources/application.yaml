@@ -1,0 +1,7 @@
+twitter-to-kafka-service:
+  twitter-keywords:
+    - springboot
+    - kafka
+    - elasticsearch
+    - docker
+    - microservice
