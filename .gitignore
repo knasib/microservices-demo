@@ -32,7 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-### Log director ###
+### Log Directory ###
 /logs/
 /archived/
-!**/twitter4j-credential.properties
+!**/src/main/resources/twitter4j.properties
+!**/src/main/resources/twitter4j-credential.properties
